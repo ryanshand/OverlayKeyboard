@@ -1,0 +1,16 @@
+{
+    "DefaultWidth": 800,
+    "DefaultHeight": 320,
+    "ResetWidth": 800,
+    "ResetHeight": 320,
+    "KeyFontSize": 14,
+    "NumberRowHeight": 40,
+    "LetterRowHeight": 50,
+    "SpacebarHeight": 50,
+    "KeySpacing": 2,
+    "ShowExit": false,
+    "ShowResize": false,
+    "ShowRefresh": true,
+    "ShowReset": false,
+    "ConfigFileName": "keyboard_config.json"
+}
